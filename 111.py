@@ -7,8 +7,8 @@ import time
 import webbrowser
 import numpy as np
 
-access = "eAuiZbRxNhO4WEVJ1GyC6dyhEl3XedMIci94BKzy"
-secret = "9G1p5BOBpet68t74F9Dx2xsxMcFVpzU99ZAMN4nY"
+access = "  "
+secret = "  "
 
 
 upbit = pyupbit.Upbit(access, secret)
